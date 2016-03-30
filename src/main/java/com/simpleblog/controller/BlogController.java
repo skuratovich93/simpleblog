@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author y.skuratovich
- * @version 29.03.2016
+ * @since 29.03.2016
  */
 @RestController
 public class BlogController {
